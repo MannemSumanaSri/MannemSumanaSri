@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumana Sri
 
-- 🎓 3rd-year CSE student specializing in Flutter app development and AI-powered solutions.
+- 🎓 3rd-year CSE student specializing in Web development and AI-powered solutions.
 - 💡 Passionate about building real-world apps focused on payments, safety, and security.
 - 🌐 Visit my [Portfolio Website](https://sumanaportfolio.netlify.app/)
 
