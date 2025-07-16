@@ -9,7 +9,7 @@
 - [Fake Profile Detection AI](https://github.com/MannemSumanaSri/fake-profile-detector-ANN) – Python-based system to detect fake social media accounts.
 - [Portfolio Website](https://github.com/MannemSumanaSri/sumana-sri-portfolio-site) – Responsive personal portfolio website.
 
-## 🛠 Skills
+##  Skills
 `Flutter` | `Python` | `Firebase` | `SQLite` | `Machine Learning` | `AI/ML`| `Front End development`
 
 ##  Contact Me
